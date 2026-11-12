@@ -1,0 +1,3 @@
+- Hacer solo 5 graficos con matplotlib y 5 con seaborn en cuaderno de colab
+- Usar streamlit para visualizar en su pagina los 10 gráficos, se puede hacer desde colab o más fácil desde local
+- Añadir interactividad, por ejemplo pestañas, filtros, sliders, etc
