@@ -20,7 +20,7 @@ En el proyecto se desarrollan las siguientes representaciones visuales estructur
 
 ## 📁 Estructura del Repositorio
 
-*   `Analisis_Seguros.ipynb`: Cuaderno de Jupyter (Google Colab) con todo el código estructurado paso a paso y las visualizaciones generadas estáticamente.
+*   `Visualización_con_Matplotlib,_Seaborn_y_Streamlit.ipynb`: Cuaderno de Jupyter (Google Colab) con todo el código estructurado paso a paso y las visualizaciones generadas estáticamente.
 *   `app.py`: Archivo de código Python que implementa el cuadro de mando interactivo en Streamlit.
 *   `insurance.csv`: El dataset original con la información del seguro médico.
 *   `README.md`: Este archivo de documentación.
